@@ -2,11 +2,11 @@
 
 ### "Before labs and lectures, there was insight." 
 
-- 📍  Living in Rio CLaro-SP
+- 📍  Living in Guaratinguetá-SP
 - 💻 I have a degree in bachelor in computer science at UNESP
 - 💓 Lover of Technology and Coding
-- 👩‍💻 DevOps Engineer | SRE | Cloud Engineer
-- 🌱 Continuing to learn Cloud Engineering, Linux and Infrastructure as a code
+- 👩‍💻 DevOps Engineer | SRE | Cloud Engineer | Observability
+- 🌱 Continuing to learn Cloud Engineering, Linux, Observability and Infrastructure as a code
 
  ## Languages and Tools:
 [![Aleicofrjr GitHub stats](https://github-readme-stats.vercel.app/api?username=aleciofrjr)](https://github.com/hellenmas/github-readme-stats)
@@ -27,7 +27,8 @@
 <code><img height="20" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></code>
-
+<code><img height="20" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"></code>
 
 #### Always ready to learn and share knowledge
 
